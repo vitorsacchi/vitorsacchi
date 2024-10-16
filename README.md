@@ -1,6 +1,7 @@
 ### Olá eu sou o Vitor Sacchi 👋
 
 - 🔭 Hoje faço faculdade de analise e desenvolvimento de sistemas
+- Um estudante empenhado em ingressar na área de programação
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsacchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
