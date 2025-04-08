@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="300" src="https://cdn.discordapp.com/attachments/1343596998187683880/1359164496572055756/studio_ghibli.jpg?ex=67f67c14&is=67f52a94&hm=7908b711452e50972b85dc1a4895a42faeed7671533ef7adc3fd08ee8303def6&"  />
+<img align="right" height="300" src="https://media.discordapp.net/attachments/1343596998187683880/1359174802426036395/Data_Coding_GIF_by_Pudgy_Penguins.gif?ex=67f685ad&is=67f5342d&hm=88a14e166890ea02345f403dcc9cb0b64f45382178224c401f8d17c1365fa780&="  />
 
 ###
 
