@@ -1,5 +1,5 @@
 
-<h2 align="left">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!🐈‍⬛</h2>
+<h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!🐈‍⬛ </h1>
 <p align="center"><i>Desenvolvedor Junior | Cursando Analise e Desenvolvimento de Sistemas</i></p>
 
 ## 🤙 Sobre Mim
