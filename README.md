@@ -2,7 +2,7 @@
 <h2 align="left">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!🐈‍⬛</h2>
 <p align="center"><i>Desenvolvedor Junior | Cursando Analise e Desenvolvimento de Sistemas</i></p>
 
-## 🌟 Sobre Mim
+## 🤙 Sobre Mim
 
 Eu sou o **Vitor**, um desenvolvedor júnior apaixonado por tecnologia, aprendizado constante e por transformar ideias em código. Atualmente curso Análise e Desenvolvimento de Sistemas e me dedico a aprimorar minhas habilidades com HTML, CSS, JavaScript, Git, APIs, AWS e fundamentos de Cybersecurity.
 
