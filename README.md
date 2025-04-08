@@ -1,6 +1,12 @@
-<h2 align="left">Olá Me chamo Vitor!🧑‍💻</h2>
-<h2 align="left">Seja bem-vindo(a) ao meu GitHub!🐈‍⬛</h2>
 
+<h2 align="left">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!🐈‍⬛</h2>
+<p align="center"><i>Desenvolvedor Junior | Cursando Analise e Desenvolvimento de Sistemas</i></p>
+
+## 🌟 Sobre Mim
+
+Eu sou o **Vitor**, um desenvolvedor júnior apaixonado por tecnologia, aprendizado constante e por transformar ideias em código. Atualmente curso Análise e Desenvolvimento de Sistemas e me dedico a aprimorar minhas habilidades com HTML, CSS, JavaScript, Git, APIs, AWS e fundamentos de Cybersecurity.
+
+Busco oportunidades que me desafiem, me conectem com a comunidade tech e contribuam para meu crescimento como profissional e como pessoa. 🚀👨‍💻
 ###
 
 <div align="center">
@@ -62,3 +68,5 @@
 
 
 ###
+
+<p align="center"><i>Obrigado pela visita! ❤️</i></p>
