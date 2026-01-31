@@ -1,10 +1,10 @@
 
 <h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!🐈‍⬛ </h1>
-<p align="center"><i>Desenvolvedor Junior | Cursando Analise e Desenvolvimento de Sistemas</i></p>
+<p align="center"><i> Cloud Analyst | Engenheiro de Software | DevOps | Formado Analise e Desenvolvimento de Sistemas</i></p>
 
 ## 🤙 Sobre Mim
 
-Eu sou o **Vitor**, um desenvolvedor júnior apaixonado por tecnologia, aprendizado constante e por transformar ideias em código. Atualmente curso Análise e Desenvolvimento de Sistemas e me dedico a aprimorar minhas habilidades com HTML, CSS, JavaScript, Git, APIs, AWS e fundamentos de Cybersecurity.
+Eu sou o **Vitor**, um entusista no área de Cloud apaixonado por tecnologia, aprendizado constante e por transformar ideias em código. Atualmente formado em Análise e Desenvolvimento de Sistemas e me dedico a aprimorar minhas habilidades com AWS,Docker,Terraform,CI/CD,Linux e Kubernets.
 
 Busco oportunidades que me desafiem, me conectem com a comunidade tech e contribuam para meu crescimento como profissional e como pessoa. 🚀👨‍💻
 ###
