@@ -66,10 +66,10 @@ Busco construir projetos reais, automatizar processos e evoluir constantemente n
 
 ---
 
-<div align="center">
-<div class="tenor-gif-embed" data-postid="13167413482750165588" data-share-method="host" data-aspect-ratio="1" data-width="40%"></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif" width="300"/>
+</p>
+>
 
 ---
 
