@@ -18,12 +18,6 @@ Busco construir projetos reais, automatizar processos e evoluir constantemente n
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorsacchi&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
-
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
